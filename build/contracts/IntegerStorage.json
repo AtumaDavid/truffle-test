@@ -25,8 +25,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     }
   ],
   "metadata": "{\"compiler\":{\"version\":\"0.8.13+commit.abaa5c0e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"name\":\"getValue\",\"outputs\":[{\"internalType\":\"int256\",\"name\":\"\",\"type\":\"int256\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"int256\",\"name\":\"_newValue\",\"type\":\"int256\"}],\"name\":\"setValue\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/IntegerStorage.sol\":\"IntegerStorage\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/IntegerStorage.sol\":{\"keccak256\":\"0x766b6c3eb2f1e9e7df3983b365478ff7c5d37bfed5b7a872a1f0fb28feb17427\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://ee9f8cae847256ac4d1a847e2487d8852879d70a67894e5009f5e38cc565b317\",\"dweb:/ipfs/QmPQVbq3HBmMPZuA9Kbm4asuKUobn4qUvg2TnrGDk85iAD\"]}},\"version\":1}",
@@ -1014,8 +1013,7 @@
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2024-05-26T06:36:08.596Z",
-  "networkType": "ethereum",
+  "updatedAt": "2024-05-27T08:54:54.810Z",
   "devdoc": {
     "kind": "dev",
     "methods": {},
